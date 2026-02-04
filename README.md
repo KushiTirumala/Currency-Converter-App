@@ -23,6 +23,3 @@ HTML5 – Structure of the app
 CSS3 – Styling and layout
 
 JavaScript – Conversion logic and interactivity
-
-
-JavaScript – Conversion logic and interactivity\
